@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Patient & Admin Portal",
+  "description": "Frosted-glass responsive single-page web app for MedFlow Hospital mapping patient check-ups, doctor registries, pharmacy stock levels, support chat desks, and central admin consoles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
